@@ -1,9 +1,4 @@
-### Hi there I am Manish agarwal 👋
-
-<!--
-**share2learnwidmanish/share2learnwidmanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi I am Manish agarwal 👋
 
 - 🔭 I’m currently working on Cloud native technologies Dockers, K8s, Continuous deployment
 - 🌱 I’m currently learning Machine Learning
