@@ -1,4 +1,4 @@
-### Hi I am Manish agarwal 👋
+### Hi there, I am Manish agarwal 👋
 
 - 🔭 I’m currently working on Cloud native technologies Dockers, K8s, Continuous deployment
 - 🌱 I’m currently learning Machine Learning
